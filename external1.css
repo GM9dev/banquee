@@ -217,4 +217,6 @@ body {
 }
 .app-image {
   position: relative;
+  margin: 0;
+  flex: 1;
 }
